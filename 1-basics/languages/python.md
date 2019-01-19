@@ -2,12 +2,10 @@
 
 ## Functions
 
-
 ## Classes
 
 ```python
 class Vector:
- def __init__(self, a, b):
-  pass
+  def __init__(self, a, b):
+    pass
 ```
-
