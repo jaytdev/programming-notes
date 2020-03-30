@@ -1,5 +1,15 @@
 # Python
 
+## Conventions and Best Practices
+
+- Use double quotes for strings
+
+## Types
+
+```py
+name = "Jay"
+f"Hello, {name}"
+```
 ## Functions
 
 ## Classes

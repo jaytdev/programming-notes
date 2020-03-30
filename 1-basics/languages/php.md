@@ -19,3 +19,19 @@ Documentation: [PCRE Functions](http://php.net/manual/en/ref.pcre.php)
 ## Useful Functions
 
 - `rand(0, 9)`
+
+## Built-in Server
+
+```bash
+php -S localhost:8000
+```
+
+## Standards
+
+- PSR
+- PHP CodeSniffer
+- PHP Code Standards Fixer
+- PHP Code Beautifier and Fixer
+
+Composer and Packagist
+
