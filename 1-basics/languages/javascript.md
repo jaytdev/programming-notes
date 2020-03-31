@@ -1,5 +1,28 @@
 # JavaScript
 
+## Types
+
+Primitive types:
+- Null
+- Undefined
+- Boolean
+- Number
+- String
+- Symbol
+- BigInt
+
+And Objects and Functions!
+
+Expressions are things that _express_ a value. The expression `2 + 2` expresses the value `4`.
+
+`typeof(null)` lies and gives us `object`, but `null` is a primitive value. This is a bug.
+
+- Primitive values are immutable.
+- Variables are not values.
+- Variables are like wires.
+
+## Stuff
+
 ```js
 let x = '5'
 x++ // coerced to the number 5
@@ -402,6 +425,4 @@ possible, and use `===` to "protect" from needing to worry about types.
 Part of the problem with _avoidance_ of whole swaths of JS, like pretending
 `===` saves you from needing to know types, is that it tends to systematically
 perpetuate bugs.
-
-
 
